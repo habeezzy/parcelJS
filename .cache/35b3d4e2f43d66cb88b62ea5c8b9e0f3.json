@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./titles.css","media":"","loc":{"line":1,"column":1}},{"name":"_css_loader"}],"generated":{"css":"body {\r\n  background: red;\r\n}\r\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      "},"hash":"ff5454b13c543761e4c6d587e002b69c","cacheData":{}}
